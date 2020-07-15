@@ -20,6 +20,6 @@ jobs:
     - name: Install dependencies
       run: dotnet restore ./WebApplication/
     - name: Build
-      run: dotnet build --configuration Release --no-restore
+      run: dotnet build ./WebApplication/ --configuration Release --no-restore
     - name: Test
-      run: dotnet test --no-restore --verbosity normal
+      run: dotnet test ./WebApplication/ --no-restore --verbosity normal
