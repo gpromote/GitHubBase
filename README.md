@@ -1,4 +1,5 @@
 ![.NET Core](https://github.com/gpromote/GitHubBase/workflows/.NET%20Core/badge.svg)
+![.NET Core](https://github.com/gpromote/GitHubBase/workflows/.NET%20Core/badge.svg?event=issues)
 
 ## GitHubÑ§Ï°ÏîÄ¿
 * ÊìÏ¤Git
