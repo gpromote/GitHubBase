@@ -1,3 +1,5 @@
+![.NET Core](https://github.com/gpromote/GitHubBase/workflows/.NET%20Core/badge.svg)
+
 ## GitHub学习项目
 * 熟悉Git
 * 熟悉GitHub工作流程
